@@ -10,10 +10,10 @@
 
 * git clone https://github.com/mrraees/raees-abdaal.git
 
-* cd raees
+* cd git
 * ls 
 
-* python2 raees.py
+* python2 git.py
 
 
 * Thanks For Using My Commands
