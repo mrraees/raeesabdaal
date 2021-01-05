@@ -1,3 +1,4 @@
+This Is A Cloning Command
 # raees-abdaal
 
 * pkg update
@@ -10,10 +11,10 @@
 
 * git clone https://github.com/mrraees/raees-abdaal.git
 
-* cd git
-* ls 
+* cd raees-abdaal
+* ls
 
-* python2 git.py
+* python2 raees-abdaal.git.py
 
 
 * Thanks For Using My Commands
